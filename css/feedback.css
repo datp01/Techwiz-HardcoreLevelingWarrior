@@ -1,0 +1,12 @@
+.form-group{
+    margin-top: 13px;
+    width: 45%;
+    padding-left: 10px
+}
+
+.button {
+    background-color: #7ed957;
+    margin-left: 10px;
+    border-radius: 10px ;
+    margin-bottom: 10px;
+}
